@@ -1,0 +1,9 @@
+{
+    "name": "nwidart/order",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Order\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Forecast",
+    "alias": "forecast",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Forecast\\Providers\\ForecastServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

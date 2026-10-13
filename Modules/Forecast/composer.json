@@ -1,0 +1,9 @@
+{
+    "name": "nwidart/forecast",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Forecast\\": ""
+        }
+    }
+}
